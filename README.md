@@ -43,7 +43,7 @@ To run the code, follow these steps:
 
 1. Clone the repository
     ```bash
-    git clone git@github.com:utsavoza/fuzzy-enigma.git
+    git clone git@github.com:unrealbatman/super-waffle.git
     ```
 2. Setup and activate the virtual environment
     ```bash
