@@ -1,1 +1,1 @@
-# Visual Reinforcement Learning using DQN 
+# fuzzy-enigma
