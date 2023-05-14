@@ -1,6 +1,6 @@
 program: sweep.py
-method: bayes
-name: dqn-hyperparams-sweep
+method: random
+name: dqn-sweep-random
 metric:
   goal: maximize
   name: test_score
