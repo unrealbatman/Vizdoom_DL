@@ -271,7 +271,7 @@ def run(args):
 
     scores = []
 
-    for _ in range(10):
+    for _ in range(100):
         game.new_episode()
         while not game.is_episode_finished():
             state = preprocess(game.get_state().screen_buffer)
@@ -289,7 +289,7 @@ def run(args):
         print("Total score: ", score)
 
     plot(y1=scores, y2=None, name=model_name + "_validation",
-         x=[i for i in range(10)], y1_label="Validation", y2_label=None)
+         x=[i for i in range(100)], y1_label="Validation", y2_label=None)
 
 
 if __name__ == "__main__":
