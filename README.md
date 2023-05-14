@@ -127,7 +127,8 @@ To run the code, follow these steps:
 ## Authors
 
 - Rithviik Srinivasan (rs8385)
-- Utsav Oza (ugo1)
+- Aswin Prasanna Suriya Prakash (as17340)
+- Loc Anh Tran (lat9357) 
 
 ## License
 
